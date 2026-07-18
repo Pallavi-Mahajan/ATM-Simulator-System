@@ -211,4 +211,4 @@ Create a SQL Server database.
 
 ## ⭐ Support
 
-⭐ If you found this project helpful, consider giving it a star!!!!
+⭐ If you like this project, don't forget to star the repository!!!!
