@@ -1,6 +1,6 @@
 # 🏦 ATM Simulator System
 
-A **Java-based ATM Simulator System** that replicates the core functionalities of an Automated Teller Machine (ATM). The application is developed using **Java Swing** for the graphical user interface and **Microsoft SQL Server** as the backend database for securely storing customer and transaction data.
+A **Java-based ATM Simulator System** that replicates the core functionalities of an Automated Teller Machine (ATM). The application is developed using **Java Programming Language** for the graphical user interface and **Microsoft SQL Server** as the backend database for securely storing customer and transaction data.
 
 This project demonstrates core banking operations such as account creation, authentication, deposits, withdrawals, balance enquiry, PIN management, and transaction history.
 
