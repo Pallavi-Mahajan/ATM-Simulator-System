@@ -172,6 +172,11 @@ Create a SQL Server database.
 
 ---
 
+## 📷 Dashboard
+
+<img width="547" height="308" alt="image" src="https://github.com/user-attachments/assets/9ff7c2eb-e0a1-44b8-b09f-3959fe392314" />
+
+
 ## 🔒 Security Features
 
 - PIN-based authentication
